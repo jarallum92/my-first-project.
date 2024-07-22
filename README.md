@@ -1,7 +1,7 @@
-# About me
+# About my first project on GitHub
+**_just practicing pn what I can do on this_**
 
 **jarallum92/jarallum92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... discovering a new career path
